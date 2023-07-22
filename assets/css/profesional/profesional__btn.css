@@ -1,0 +1,14 @@
+.profesional__btn{
+    border:solid  #2A7AE4;
+    color: #2A7AE4;
+    padding: 10px;
+    transition: all .1s ease-in-out ;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.profesional__btn:hover{
+    cursor: pointer;
+    background: #2A7AE4;
+    color: white;
+}

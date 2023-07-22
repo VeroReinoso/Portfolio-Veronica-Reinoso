@@ -1,0 +1,11 @@
+.hero__titulo{
+  font-size: 52px;
+  font-weight: 700;
+  color: #464646;
+}
+
+@media screen and (max-width: 768px) {
+  .hero__titulo {
+    font-size: 35px;
+  }
+}

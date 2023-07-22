@@ -1,0 +1,5 @@
+.form__contacto{
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    }

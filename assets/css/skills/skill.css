@@ -1,0 +1,16 @@
+.skill {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  width: 100px;
+  padding: 40px;
+  padding-top: 80px;
+  padding-bottom: 20px;
+  justify-content: center;
+}
+
+@media screen and (max-width: 768px) {
+  .skill {
+    margin: 40px;
+  }
+}
